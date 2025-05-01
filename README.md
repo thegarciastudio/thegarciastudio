@@ -37,5 +37,5 @@ Estoy abierto a colaborar, compartir aprendizajes o simplemente charlar con otro
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thegarciastudio&show_icons=true&theme=default&hide_title=true&hide=contribs" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thegraciastudio&show_icons=true&theme=default&hide_title=true&hide=contribs" alt="GitHub Stats" />
 </p>
