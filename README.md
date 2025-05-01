@@ -1,7 +1,7 @@
 <h1 align="center">👋 ¡Hola! Soy Antonio</h1>
 
 <p align="center">
-Aprendo a construir herramientas útiles con Python.<br>
+Aprendiendo a construir herramientas útiles con Python.<br>
 Me especializo en Automatización, Web Scraping y herramientas de línea de comandos (CLI).
 </p>
 
