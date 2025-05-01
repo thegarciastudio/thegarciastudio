@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">👋 ¡Hola! Soy Antonio</h1>
 
-<!--
-**thegraciastudio/thegraciastudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Aprendo a construir herramientas útiles con Python.<br>
+Me especializo en Automatización, Web Scraping y herramientas de línea de comandos (CLI).
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyectos actuales
+
+- 🗂️ Organizador automático de archivos
+- 🔍 Web scraper para extraer datos de productos
+- 🛠️ CLI tool para renombrar archivos en lote
+
+---
+
+## 🧠 En proceso de aprendizaje
+
+- Automatización de tareas con Python (`os`, `shutil`, `glob`, `pathlib`)
+- Web scraping con `requests` + `BeautifulSoup`
+- Construcción de herramientas CLI con `argparse`, `click`
+- Buenas prácticas: logs, estructura de scripts, dry-run modes
+
+---
+
+## 🎯 Misión actual
+
+Desarrollar herramientas reales que resuelvan problemas concretos, mientras comparto el proceso y conecto con otros makers técnicos.
+
+---
+
+## 🤝 ¿Conectamos?
+
+Estoy abierto a colaborar, compartir aprendizajes o simplemente charlar con otros desarrolladores y emprendedores técnicos.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thegarciastudio&show_icons=true&theme=default&hide_title=true&hide=contribs" alt="GitHub Stats" />
+</p>
