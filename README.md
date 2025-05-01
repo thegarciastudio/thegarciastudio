@@ -1,38 +1,38 @@
-<h1 align="center">👋 ¡Hola! Soy Antonio</h1>
+<h1 align="center">Hi! I'm Antonio</h1>
 
 <p align="center">
-Aprendiendo a construir herramientas útiles con Python.<br>
-Me especializo en Automatización, Web Scraping y herramientas de línea de comandos (CLI).
+I'm learning how to build useful tools with Python.<br>
+Focused on automation, web scraping, and command-line utilities.
 </p>
 
 ---
 
-## 🚀 Proyectos actuales
+## What I'm working on
 
-- 🗂️ Organizador automático de archivos
-- 🔍 Web scraper para extraer datos de productos
-- 🛠️ CLI tool para renombrar archivos en lote
-
----
-
-## 🧠 En proceso de aprendizaje
-
-- Automatización de tareas con Python (`os`, `shutil`, `glob`, `pathlib`)
-- Web scraping con `requests` + `BeautifulSoup`
-- Construcción de herramientas CLI con `argparse`, `click`
-- Buenas prácticas: logs, estructura de scripts, dry-run modes
+- An automatic file organizer  
+- A product data scraper  
+- A CLI tool to batch rename files  
 
 ---
 
-## 🎯 Misión actual
+## What I'm learning
 
-Desarrollar herramientas reales que resuelvan problemas concretos, mientras comparto el proceso y conecto con otros makers técnicos.
+- Automating tasks with Python (`os`, `shutil`, `glob`, `pathlib`)  
+- Web scraping with `requests` and `BeautifulSoup`  
+- Building CLI tools with `argparse` and `click`  
+- Best practices: logging, clean structure, dry-run modes  
 
 ---
 
-## 🤝 ¿Conectamos?
+## My current goal
 
-Estoy abierto a colaborar, compartir aprendizajes o simplemente charlar con otros desarrolladores y emprendedores técnicos.
+Build real tools that solve real problems — and share the journey with other technical makers.
+
+---
+
+## Let’s connect
+
+Happy to collaborate, exchange ideas, or just chat with fellow developers and tech-minded founders.
 
 ---
 
